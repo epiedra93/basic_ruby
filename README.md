@@ -19,3 +19,6 @@ This repo is meant to help people learning ruby the basic principles of the lang
 * Ruby Documentation
 * Ruby sintax and naming conventions
 * Ruby variables and constants
+
+
+Esteban Piedra!!!!
